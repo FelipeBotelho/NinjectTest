@@ -1,0 +1,7 @@
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Ninject.Business\bin\Debug\Projeto.Ninject.Business.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Ninject.Business\bin\Debug\Projeto.Ninject.Business.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Ninject.Business\bin\Debug\Projeto.Contratos.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Ninject.Business\bin\Debug\Projeto.Contratos.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Ninject.Business\obj\Debug\Projeto.Ninject.Business.csprojResolveAssemblyReference.cache
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Ninject.Business\obj\Debug\Projeto.Ninject.Business.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Ninject.Business\obj\Debug\Projeto.Ninject.Business.pdb

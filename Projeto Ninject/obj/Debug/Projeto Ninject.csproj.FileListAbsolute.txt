@@ -1,0 +1,55 @@
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\csc.exe
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\vbc.exe
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\VBCSCompiler.exe
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto Ninject.dll.config
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto Ninject.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto Ninject.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Antlr3.Runtime.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Newtonsoft.Json.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto.Ninject.Service.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Helpers.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Mvc.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Optimization.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Razor.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.WebPages.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.WebPages.Razor.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\WebGrease.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto.Ninject.Service.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Helpers.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Mvc.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Optimization.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.Razor.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.WebPages.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\System.Web.WebPages.Razor.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Antlr3.Runtime.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Newtonsoft.Json.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\obj\Debug\Projeto Ninject.csprojResolveAssemblyReference.cache
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\obj\Debug\Projeto Ninject.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\obj\Debug\Projeto Ninject.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.Web.Common.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.Web.Mvc.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\WebActivatorEx.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.Web.Common.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.Web.Mvc.xml
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto.Contratos.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto.Ninject.Business.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto.Contratos.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Projeto.Ninject.Business.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.Extensions.Conventions.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto Ninject\bin\Ninject.Extensions.Conventions.xml

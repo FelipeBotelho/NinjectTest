@@ -1,0 +1,5 @@
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Contratos\bin\Debug\Projeto.Contratos.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Contratos\bin\Debug\Projeto.Contratos.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Contratos\obj\Debug\Projeto.Contratos.dll
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Contratos\obj\Debug\Projeto.Contratos.pdb
+C:\Dev\git\Projetos Testes\Projeto Ninject\Projeto.Contratos\obj\Debug\Projeto.Contratos.csprojResolveAssemblyReference.cache
